@@ -1,9 +1,6 @@
 # Angular 2 + Typescript + Anular2-Material + Webpack
 
---------------------------------------------------------
-_will give a detail **"know how"** later, just live with this for now_
 
----------------------------------------------------------
 
 ### Steps to get up and running
 - npm install
