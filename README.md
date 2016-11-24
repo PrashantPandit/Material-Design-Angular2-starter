@@ -10,7 +10,7 @@ Basic of the configuring Angular 2.0 and Material is done, when you follow the t
 Buttons have been configured in this demo App, to add other Components add them like following
 
 **In app.module.ts**
-> import { AppComponent }  from './app.component';
+import { AppComponent }  from './app.component';
 
 import { BrowserModule } from '@angular/platform-browser';
 import { FormsModule } from '@angular/forms';
@@ -21,7 +21,7 @@ import {MdIconModule} from '@angular2-material/icon';
 import {MdIconRegistry} from '@angular2-material/icon';
 import { NgModule }      from '@angular/core';
 
-> @NgModule({
+ @NgModule({
   imports:      [ BrowserModule,
                   FormsModule
                   ,MdCardModule
@@ -36,6 +36,7 @@ import { NgModule }      from '@angular/core';
   bootstrap:    [ AppComponent ]
 })
 export class AppModule { }
+
 
 #Good Luck
 
