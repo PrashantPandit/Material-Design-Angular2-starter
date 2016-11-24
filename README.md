@@ -15,16 +15,7 @@ import {MdButtonModule} from '@angular2-material/button';
 
 import {MdCardModule} from '@angular2-material/card';
 
-
- @NgModule({
-  imports:      [ BrowserModule,
-                  FormsModule
-                  ,MdCardModule
-                  ,MdButtonModule
-                  ,MdIconModule
-   ])
-
-
+**Dont forget to add them in the imports**
 
 #Good Luck
 
