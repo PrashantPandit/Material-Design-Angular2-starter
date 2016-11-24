@@ -1,8 +1,9 @@
 # Angular 2 + Typescript + Anular2-Material + Webpack
 
 ### Steps to get up and running
-npm install
-npm run server
+- npm install
+- npm run server
+
 
 ### INSTRUCTIONS
 
