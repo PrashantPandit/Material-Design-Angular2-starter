@@ -13,10 +13,14 @@ Buttons have been configured in this demo App, to add other Components add them 
 import { AppComponent }  from './app.component';
 
 import { BrowserModule } from '@angular/platform-browser';
+
 import { FormsModule } from '@angular/forms';
+
 //Material
 import {MdButtonModule} from '@angular2-material/button';
+
 import {MdCardModule} from '@angular2-material/card';
+
 import {MdIconModule} from '@angular2-material/icon';
 import {MdIconRegistry} from '@angular2-material/icon';
 import { NgModule }      from '@angular/core';
